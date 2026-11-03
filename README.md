@@ -21,6 +21,7 @@ load it directly.
 - Heights are orthometric (CGVD2013, metres above sea level, 11.5 to 72.7 m), matching NRCan's
   HRDEM lidar elevation model: building bases sit on the HRDEM ground (median difference -0.16 m).
 - The area is inside HRDEM lidar coverage, which geoview-3d uses for terrain.
+- Source: the 3D Tiles were created from a public lidar dataset.
 
 ## Use with geoview-3d
 
